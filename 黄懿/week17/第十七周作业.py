@@ -3,7 +3,7 @@ import openpyxl
 
 '''
 电影打分数据集
-实现基于userd的协同过滤和基于item的协同过滤
+实现基于user的协同过滤和基于item的协同过滤
 '''
 
 
